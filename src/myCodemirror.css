@@ -1,0 +1,15 @@
+.CodeMirror {
+  border: 1px solid #eee;
+  min-height: 80vh;
+  left:10px;
+  width:48%;
+  top:40px;
+  
+  box-sizing: border-box;
+  position: absolute;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+  line-height:25px;
+}
+
+
